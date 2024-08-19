@@ -1,0 +1,5 @@
+rust_bot/target
+rust_bot/Cargo.lock
+pdf_microservice/generated_pdfs
+.idea
+rust_bot/config.yml
